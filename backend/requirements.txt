@@ -1,0 +1,16 @@
+fastapi
+fastapi-limiter
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+pydantic-settings
+pyjwt
+passlib
+alembic
+python-multipart
+asyncpg
+greenlet
+sqlalchemy-utils
+argon2-cffi
+sqlalchemy[asyncio]
